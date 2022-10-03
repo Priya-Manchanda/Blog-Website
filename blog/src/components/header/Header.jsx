@@ -8,8 +8,8 @@ export default function Header() {
       </div>
       <img
         className="headerImg"
-        src="https://images.pexels.com/photos/1167355/pexels-photo-1167355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-        alt=""
+        src="https://img.freepik.com/free-photo/aerial-view-beautiful-colorful-landscape-background-amazing-mountains_181624-22209.jpg?w=2000"
+        alt="Main Image"
       />
     </div>
   );
